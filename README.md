@@ -23,8 +23,7 @@ To identify key drivers influencing sales performance and seasonal trends, and t
 
 ## How to Explore
 - View `Walmart Sales analysis across stores.twbx` using Tableau Desktop or Tableau Public
-- Open `data/cleaned_data.xlsx` to inspect the processed dataset
-- Check `analysis/exploratory_analysis.xlsx` for Excel-based analysis
+- Check `Walmart_sales_data.xlsx` for Excel-based analysis
 - Browse screenshots in `Tableau dashboard screenshot.png` if Tableau is unavailable
 
   ## Live Dashboard
