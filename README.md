@@ -22,7 +22,7 @@ To identify key drivers influencing sales performance and seasonal trends, and t
 - Temperature had negligible positive correlation with sales in Q1 and Q4.
 
 ## How to Explore
-- View `tableau/dashboard.twbx` using Tableau Desktop or Tableau Public
+- View `Walmart Sales analysis across stores.twbx` using Tableau Desktop or Tableau Public
 - Open `data/cleaned_data.xlsx` to inspect processed dataset
 - Check `analysis/exploratory_analysis.xlsx` for Excel-based analysis
 - Browse screenshots in `tableau/dashboard_screenshots/` if Tableau is unavailable
