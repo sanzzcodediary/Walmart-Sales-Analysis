@@ -16,16 +16,16 @@ To identify key drivers influencing sales performance and seasonal trends, and t
 
 ## Key Insights
 - Holiday weeks increased sales by an average of 7-8%.
-- Rise in CPI and and fuel prices don't affect Walmart Sales significantly.
-- Unemployement and weekly sales show a neglibible positive correlation
+- Rise in CPI and fuel prices doesn't affect Walmart's Sales significantly.
+- Unemployment and weekly sales show a negligible positive correlation
 - Stores 20, 4, 14,13 and 2 were top performers consistently.
-- Temperature had negligible positive correlation with sales in Q1 and Q4.
+- Temperature had a negligible positive correlation with sales in Q1 and Q4.
 
 ## How to Explore
 - View `Walmart Sales analysis across stores.twbx` using Tableau Desktop or Tableau Public
-- Open `data/cleaned_data.xlsx` to inspect processed dataset
+- Open `data/cleaned_data.xlsx` to inspect the processed dataset
 - Check `analysis/exploratory_analysis.xlsx` for Excel-based analysis
-- Browse screenshots in `tableau/dashboard_screenshots/` if Tableau is unavailable
+- Browse screenshots in `Tableau dashboard screenshot.png` if Tableau is unavailable
 
   ## Live Dashboard
 View the interactive dashboard on [Tableau Public](https://public.tableau.com/shared/BCSXZF9WB?:display_count=n&:origin=viz_share_link)
